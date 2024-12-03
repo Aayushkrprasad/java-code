@@ -109,4 +109,4 @@ For queries or discussions, open an issue or contact us at **aayushkrprasad@gami
 
 ---
 
-Feel free to customize the placeholder sections like email or additional links as per your project details.
+Feel free to customize the placeholder sections like email or additional links as per your project details..
